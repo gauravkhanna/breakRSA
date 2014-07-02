@@ -1,0 +1,9 @@
+2nd July, 2014: This morning I had this idea of trying my hand at breaking the RSA Algorithm. Although it has already been tried and been partially successful, this attempt is really different.
+
+Here are the reasons that will tell you what makes this attempt different and more promising:
+
+1) This approach uses the computation powers of Python. I would like to express my gratitude to Guido van Rossum for the idea and the Python Software Foundation for providing continous support to keep the language running.
+
+2) This approach works with the binary representation of very large prime numbers. I would like to thank Mr. Dave Evans, Udacity for introducing me to this idea of using binary numbers for encryption techniques.
+
+3) Finally, this approach uses the simple division technique for pattern recognition. We all understand division with decimal numbers. Decimal numbers still have the complexity of having 10 different possibilities for each digit, binary have 2! This realization was enough for me to pursue this idea.
